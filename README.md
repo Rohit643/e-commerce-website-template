@@ -1,2 +1,2 @@
 # e-commerce-website-template
-we designed just a basic template for e-commerce website.
+ Design of a basic template for e-commerce website. What basics we need to build an e-commerce website in minimum time.
